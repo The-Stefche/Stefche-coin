@@ -106,7 +106,7 @@ const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "8f80f9a5a434a9f1
 
 //TODO Add here your network seed nodes
 const std::initializer_list<const char*> SEED_NODES = {
-  "18.219.149.123:61695",
+  "18.219.12.19:61695",
   "18.218.24.162:61695" ,
 };
 
